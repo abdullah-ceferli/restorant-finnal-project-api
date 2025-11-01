@@ -42,7 +42,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/featured-section-card-img2.png",
                 "second_Img": "../img/featured-section-card-img2.png",
-                "name": "Angie’s Boomchickapop Sweet and womnies",
+                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -70,7 +70,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/popular-card-img2.png",
                 "second_Img": "../img/popular-card-img2.png",
-                "name": "Angie’s Boomchickapop Sweet and womnies",
+                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -98,7 +98,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/new-added-card-img2.png",
                 "second_Img": "../img/new-added-card-img2.png",
-                "name": "Angie’s Boomchickapop Sweet and womnies",
+                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -344,8 +344,8 @@
                 "id": "productsCartFirst4",
                 "txt": "Fruits",
                 "name": "Organic fresh venila farm watermelon 5kg",
-                "cost": 50.30,
-                "old_Cost": 72.60
+                "cost": 50.3,
+                "old_Cost": 72.6
             },
             "all_Products_First_List_Card5": {
                 "img": "../img/popular-card-img3.png",
@@ -419,7 +419,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             },
             "all_Products_First_List_Card7": {
                 "img": "../img/productjson7.png",
@@ -456,7 +456,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             },
             "all_Products_First_List_Card8": {
                 "img": "../img/productjson8.png",
@@ -493,7 +493,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             },
             "all_Products_First_List_Card9": {
                 "img": "../img/productjson9.png",
@@ -530,7 +530,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             }
         }
     ],
@@ -543,7 +543,7 @@
                     "fa-solid fa-star",
                     "fa-solid fa-star",
                     "fa-solid fa-star",
-                    "fa-solid fa-star",               
+                    "fa-solid fa-star",
                     "fa-regular fa-star"
                 ],
                 "product_Parameters": {
@@ -580,7 +580,7 @@
                     "fa-solid fa-star",
                     "fa-solid fa-star",
                     "fa-solid fa-star",
-                    "fa-solid fa-star",               
+                    "fa-solid fa-star",
                     "fa-regular fa-star"
                 ],
                 "product_Parameters": {
@@ -607,8 +607,8 @@
                 "id": "productsCartSecond2",
                 "txt": "Fruits",
                 "name": "Organic fresh venila farm watermelon 5kg",
-                "cost": 50.30,
-                "old_Cost": 72.60
+                "cost": 50.3,
+                "old_Cost": 72.6
             },
             "all_Products_Second_List_Card3": {
                 "img": "../img/productjson9.png",
@@ -645,7 +645,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             },
             "all_Products_Second_List_Card4": {
                 "img": "../img/new-added-card-img2.png",
@@ -695,7 +695,7 @@
                     "fa-solid fa-star",
                     "fa-solid fa-star",
                     "fa-solid fa-star",
-                    "fa-solid fa-star",               
+                    "fa-solid fa-star",
                     "fa-regular fa-star"
                 ],
                 "product_Parameters": {
@@ -760,7 +760,7 @@
                 "txt": "Bakery",
                 "name": "Delicious white baked fresh bread and toast",
                 "cost": 20,
-                "old_Cost": 22.10
+                "old_Cost": 22.1
             },
             "all_Products_Third_List_Card3": {
                 "img": "../img/new-added-card-img2.png",
@@ -806,7 +806,7 @@
                     "fa-solid fa-star",
                     "fa-solid fa-star",
                     "fa-solid fa-star",
-                    "fa-solid fa-star",               
+                    "fa-solid fa-star",
                     "fa-regular fa-star"
                 ],
                 "product_Parameters": {
@@ -833,8 +833,8 @@
                 "id": "productsCartThird4",
                 "txt": "Fruits",
                 "name": "Organic fresh venila farm watermelon 5kg",
-                "cost": 50.30,
-                "old_Cost": 72.60
+                "cost": 50.3,
+                "old_Cost": 72.6
             }
         }
     ],
@@ -851,6 +851,13 @@
             "third": {
                 "start": 13,
                 "end": 16
+            }
+        }
+    ],
+    "Test": [
+        {
+            "Test": {
+                "Hello": "World"
             }
         }
     ]

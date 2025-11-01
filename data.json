@@ -42,7 +42,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/featured-section-card-img2.png",
                 "second_Img": "../img/featured-section-card-img2.png",
-                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
+                "name": "Angie’s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -70,7 +70,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/popular-card-img2.png",
                 "second_Img": "../img/popular-card-img2.png",
-                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
+                "name": "Angie’s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -98,7 +98,7 @@
                 "sale": "Sale",
                 "img": "./assets/img/new-added-card-img2.png",
                 "second_Img": "../img/new-added-card-img2.png",
-                "name": "Angie\u0432\u0402\u2122s Boomchickapop Sweet and womnies",
+                "name": "Angie’s Boomchickapop Sweet and womnies",
                 "cost": 238.85,
                 "old_cost": 245.8
             },
@@ -854,10 +854,10 @@
             }
         }
     ],
-    "Test": [
+    "kata": [
         {
-            "Test": {
-                "Hello": "World"
+            "valera": {
+                "zeytun": "stakan"
             }
         }
     ]
